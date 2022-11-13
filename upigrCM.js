@@ -200,7 +200,7 @@ abcjsEditor = new ABCJS.Editor("abc", {
         warnings_id: "warnings",
         synth: {
           el: "#audio",
-          options: { displayLoop: true, displayRestart: true, displayPlay: true, displayProgress: true, displayWarp: true,soundFontUrl: './soundfonts/FluidR3_GM/'}
+          options: { displayLoop: true, displayRestart: true, displayPlay: true, displayProgress: true, displayWarp: true,soundFontUrl: '../uPIGr-CM/soundfonts/FluidR3_GM/'}
         },
         abcjsParams: {
           add_classes: true,
