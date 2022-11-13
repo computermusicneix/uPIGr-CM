@@ -1,0 +1,32 @@
+html, body {
+  
+  background-color: black;
+}
+
+/* Scrollbars */
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #454444;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Keywords styles */
+
+.cm-style1 {
+  color: orange !important;
+}

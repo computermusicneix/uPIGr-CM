@@ -1,0 +1,52 @@
+uPIGr Composition Module.
+2022.10 V 1.1
+
+Description:
+
+Editor to compose algorithmic music in javascript and transform it into abc notation, sheet music and midi.
+
+Reference: 
+
+open@ ..
+in@ file ..
+..,, (save file)
+..eval (eval code on console and send abc string to abc editor)
+
+Especial functions:
+
+t2abc
+
+combinationSum
+
+Example:
+
+tempos = [1,0.5,0.25];
+total = 3;
+combs = combinationSum(tempos,total);
+..eval
+
+randomNoRepeats
+
+original = ['a','b','c','d','e'];
+one = randomNoRepeats(original);
+console.log(one());
+console.log(one());
+console.log(one());
+console.log(one());
+console.log(one());
+..eval
+
+upigrShuffleE
+
+original = ['a','b','c','d','e'];
+shuffled = upigrShuffleE(original);
+console.log(original);
+console.log(shuffled);
+..eval
+
+replaceAt
+
+str = 'Hello World'; 
+str = replaceAt(str, 1, 'u'); 
+console.log(str);
+..eval

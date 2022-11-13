@@ -1,0 +1,13 @@
+X: 1
+T: uPIgr CM Desired Output
+M: 3/4
+L: 1/8
+Q: 100
+V:Vibraphone name="Vibraphone"
+K:C treble
+%%MIDI program 12
+E' G' B' | G' B' ^D' | ^F' A' ^C' |]
+V:Piano Left name="Piano L"
+K:C bass
+%%MIDI program 1
+[E,,G,,B,,]3 | [G,,B,,^D,,]3 | [^F,,A,,^C,,]3 |]
