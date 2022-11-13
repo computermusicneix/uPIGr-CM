@@ -5,6 +5,10 @@
 
 Editor to compose algorithmic music in javascript and transform it into abc notation, sheet music and midi.
 
+## Web access:
+
+[uPIGr-CM](https://computermusicneix.github.io/uPIGr-CM/)
+
 Thanks to:
 
 - [Codemirror](https://codemirror.net/)
